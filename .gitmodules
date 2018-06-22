@@ -1,0 +1,3 @@
+[submodule "native_lib"]
+	path = native_lib
+	url = https://github.com/lfittl/libpg_query
